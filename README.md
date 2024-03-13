@@ -8,5 +8,5 @@ To run:
 
 2) pipenv install
 
-3) windows: py manage.py runserver \n
+3) windows: py manage.py runserver  /
    mac: python3 manage.py runserver
